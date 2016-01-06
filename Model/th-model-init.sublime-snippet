@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+init(...args){
+    super.init(...args);
+    this.tablePrefix = ""; //将数据表前缀设置为空
+    this.tableName = "${1:user2}"; //将对应的数据表名设置为 user2
+    //this.pk = "${2:user_id}"; //将主键字段设置为 user_id
+}
+$0]]></content>
+	<tabTrigger>th-model-init</tabTrigger> -->
+	<description>数据表定义</description>
+	<scope>source.js</scope>
+</snippet>

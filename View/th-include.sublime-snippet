@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<%include ${1:inc/header.html}%>
+$0]]></content>
+	<tabTrigger>th-include</tabTrigger> -->
+	<description>ejs include </description>
+	<scope>source.html</scope>
+</snippet>

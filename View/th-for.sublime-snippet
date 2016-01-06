@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<%list.forEach(function(item){%>
+    <li><%=item.name%></li>
+<%})%>
+$0]]></content>
+	<tabTrigger>th-for</tabTrigger> -->
+	<description>ejs for </description>
+	<scope>source.html</scope>
+</snippet>

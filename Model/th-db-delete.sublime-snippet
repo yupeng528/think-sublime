@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+let model = this.model("${1:user}");
+let affectedRows = yield model.where({id: [">", 100]}).delete();
+$0]]></content>
+	<tabTrigger>th-db-delete</tabTrigger> -->
+	<description>删除数据</description>
+	<scope>source.js</scope>
+</snippet>

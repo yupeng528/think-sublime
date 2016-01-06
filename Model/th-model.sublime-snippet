@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+let model = this.model("${1:user}");
+$0]]></content>
+	<tabTrigger>th-action</tabTrigger> -->
+	<description>demoAction es7</description>
+	<scope>source.js</scope>
+</snippet>

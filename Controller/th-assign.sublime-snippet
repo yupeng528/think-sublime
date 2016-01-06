@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.assign('${1:name}', ${2:welefen});
+$0]]></content>
+	<tabTrigger>th-assign</tabTrigger> -->
+	<description>赋值</description>
+	<scope>source.js</scope>
+</snippet>

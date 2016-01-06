@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+let http = this.http;
+$0]]></content>
+	<tabTrigger>th-http</tabTrigger> -->
+	<description>http 对象</description>
+	<scope>source.js</scope>
+</snippet>

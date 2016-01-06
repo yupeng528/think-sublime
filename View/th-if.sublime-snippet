@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<%if(data.name === "1"){%>
+    <p>...</p>
+<%}else if(data.name === "2"){%>
+    <p>...</p>
+<%}else{%>
+    <p>...</p>
+<%}%>
+$0]]></content>
+	<tabTrigger>th-if</tabTrigger> -->
+	<description>ejs if </description>
+	<scope>source.html</scope>
+</snippet>

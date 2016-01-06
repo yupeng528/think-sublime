@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+let model = this.model("${1:user}");
+let affectedRows = yield model.where({name: "thinkjs"}).update({email: "admin@thinkjs.org"});
+$0]]></content>
+	<tabTrigger>th-db-update</tabTrigger> -->
+	<description>数据更新</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+//let data = {name: "thinkjs"};
+this.success(data);
+$0]]></content>
+	<tabTrigger>th-success</tabTrigger> -->
+	<description>JSON 输出</description>
+	<scope>source.js</scope>
+</snippet>

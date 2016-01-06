@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.fail({1:1000}, "{2:connect error}"); //指定错误号和错误信息
+$0]]></content>
+	<tabTrigger>th-fail</tabTrigger> -->
+	<description>输出含有错误信息的JSON</description>
+	<scope>source.js</scope>
+</snippet>
