@@ -5,7 +5,7 @@ init(http){
     ${1:...}
 }
 $0]]></content>
-	<tabTrigger>th-init</tabTrigger> -->
+	<tabTrigger>th-ctrl-init</tabTrigger> -->
 	<description>Controller初始化init</description>
 	<scope>source.js</scope>
 </snippet>

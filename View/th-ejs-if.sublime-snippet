@@ -8,7 +8,7 @@
     <p>...</p>
 <%}%>
 $0]]></content>
-	<tabTrigger>th-if</tabTrigger> -->
+	<tabTrigger>th-ejs-if</tabTrigger> -->
 	<description>ejs if </description>
 	<scope>source.html</scope>
 </snippet>

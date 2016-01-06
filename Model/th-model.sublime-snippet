@@ -2,7 +2,7 @@
 	<content><![CDATA[
 let model = this.model("${1:user}");
 $0]]></content>
-	<tabTrigger>th-action</tabTrigger> -->
-	<description>demoAction es7</description>
+	<tabTrigger>th-model</tabTrigger> -->
+	<description>get model</description>
 	<scope>source.js</scope>
 </snippet>

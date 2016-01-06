@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+__after(){
+    ${1:...}
+}
+$0]]></content>
+	<tabTrigger>th-after</tabTrigger> -->
+	<description>前置操作</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-async ${1:index}Action(){
+async ${1:demo}Action(){
     let model = this.model("${2:user}");
     let data = await model.${3:select}();
     return this.success(data);
 }
 $0]]></content>
-	<tabTrigger>th-action</tabTrigger> -->
+	<tabTrigger>th-demoAction</tabTrigger> -->
 	<description>demoAction es7</description>
 	<scope>source.js</scope>
 </snippet>

@@ -4,7 +4,7 @@
     <li><%=item.name%></li>
 <%})%>
 $0]]></content>
-	<tabTrigger>th-for</tabTrigger> -->
+	<tabTrigger>th-ejs-for</tabTrigger> -->
 	<description>ejs for </description>
 	<scope>source.html</scope>
 </snippet>
