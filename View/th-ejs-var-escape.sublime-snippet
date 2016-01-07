@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<%= ${1:name}%>
+$0]]></content>
+	<tabTrigger>th-ejs-var-escape</tabTrigger> -->
+	<description>ejs variable </description>
+	<scope>source.html</scope>
+</snippet>
